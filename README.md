@@ -4,5 +4,5 @@
 
 ### https://www.raywenderlich.com/1131-introduction-to-unity-sound
 - [X] Getting Started
-- [ ] Adding Your First Sound Effects
+- [X] Adding Your First Sound Effects
 - [ ] Sound Polish
